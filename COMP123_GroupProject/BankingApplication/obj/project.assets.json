@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mushf\\OneDrive\\Desktop\\Semester 2\\COMP123\\COMP213_GroupProject\\COMP123_GroupProject\\BankingApplication\\BankingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\mushf\\OneDrive\\Documents\\GitHub\\COMP123_GroupProject\\COMP123_GroupProject\\BankingApplication\\BankingApplication.csproj",
       "projectName": "BankingApplication",
-      "projectPath": "C:\\Users\\mushf\\OneDrive\\Desktop\\Semester 2\\COMP123\\COMP213_GroupProject\\COMP123_GroupProject\\BankingApplication\\BankingApplication.csproj",
+      "projectPath": "C:\\Users\\mushf\\OneDrive\\Documents\\GitHub\\COMP123_GroupProject\\COMP123_GroupProject\\BankingApplication\\BankingApplication.csproj",
       "packagesPath": "C:\\Users\\mushf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mushf\\OneDrive\\Desktop\\Semester 2\\COMP123\\COMP213_GroupProject\\COMP123_GroupProject\\BankingApplication\\obj\\",
+      "outputPath": "C:\\Users\\mushf\\OneDrive\\Documents\\GitHub\\COMP123_GroupProject\\COMP123_GroupProject\\BankingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mushf\\AppData\\Roaming\\NuGet\\NuGet.Config",
