@@ -1,0 +1,14 @@
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/bin/Debug/net9.0/Student4
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/bin/Debug/net9.0/Student4.deps.json
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/bin/Debug/net9.0/Student4.runtimeconfig.json
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/bin/Debug/net9.0/Student4.dll
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/bin/Debug/net9.0/Student4.pdb
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/Student4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/Student4.AssemblyInfoInputs.cache
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/Student4.AssemblyInfo.cs
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/Student4.csproj.CoreCompileInputs.cache
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/Student4.dll
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/refint/Student4.dll
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/Student4.pdb
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/Student4.genruntimeconfig.cache
+/Users/rageanast/RiderProjects/GroupAssignment/Student4/obj/Debug/net9.0/ref/Student4.dll
