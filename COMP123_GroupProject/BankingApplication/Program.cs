@@ -8,6 +8,8 @@
 
             int account = 8;
 
+            string poop = "poop";
+
         }
     }
 }
