@@ -10,6 +10,8 @@
 
             string poop = "poop";
 
+            string praise = "priase is a cat";
+
         }
     }
 }
