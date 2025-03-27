@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\mushf\\OneDrive\\Documents\\GitHub\\COMP123_GroupProject\\COMP123_GroupProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A330F32-0FE4-48DE-9369-21E01179AD30}|BankingApplication\\BankingApplication.csproj|c:\\users\\mushf\\onedrive\\documents\\github\\comp123_groupproject\\comp123_groupproject\\bankingapplication\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A330F32-0FE4-48DE-9369-21E01179AD30}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A330F32-0FE4-48DE-9369-21E01179AD30}|BankingApplication\\BankingApplication.csproj|c:\\users\\mushf\\onedrive\\documents\\github\\comp123_groupproject\\comp123_groupproject\\bankingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A330F32-0FE4-48DE-9369-21E01179AD30}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Util.cs",
-              "DocumentMoniker": "C:\\Users\\mushf\\OneDrive\\Documents\\GitHub\\COMP123_GroupProject\\COMP123_GroupProject\\BankingApplication\\Util.cs",
-              "RelativeDocumentMoniker": "BankingApplication\\Util.cs",
-              "ToolTip": "C:\\Users\\mushf\\OneDrive\\Documents\\GitHub\\COMP123_GroupProject\\COMP123_GroupProject\\BankingApplication\\Util.cs",
-              "RelativeToolTip": "BankingApplication\\Util.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:04:20.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mushf\\OneDrive\\Documents\\GitHub\\COMP123_GroupProject\\COMP123_GroupProject\\BankingApplication\\Program.cs",
               "RelativeDocumentMoniker": "BankingApplication\\Program.cs",
               "ToolTip": "C:\\Users\\mushf\\OneDrive\\Documents\\GitHub\\COMP123_GroupProject\\COMP123_GroupProject\\BankingApplication\\Program.cs",
               "RelativeToolTip": "BankingApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T15:25:40.357Z",
               "EditorCaption": ""

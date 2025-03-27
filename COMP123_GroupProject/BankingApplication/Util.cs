@@ -11,5 +11,10 @@ namespace BankingApplication
         private static Random random = new Random();
 
         private static DateTime currentTime = new DateTime();
+
+        public static int GenerateRandomNumber(int min, int max)
+        {
+            return random.Next(min, max);
+        }
     }
 }
