@@ -1,0 +1,26 @@
+public class Account
+{
+    public event TransactionEventHandler TransactionEvent; 
+
+    public string AccountId { get; set; }
+    public decimal Balance { get; set; }
+
+    public Account(string accountId)
+    {
+        AccountId = accountId;
+        Balance = 0;
+    }
+
+    public void ProcessTransaction(string transactionType, decimal amount)
+    {
+        Balance += amount;
+
+        TransactionEventArgs args = new TransactionEventArgs(transactionType, amount);
+        OnTransactionProcessed(args);
+    }
+
+    protected virtual void OnTransactionProcessed(TransactionEventArgs e)
+    {
+        TransactionEvent?.Invoke(this, e);
+    }
+}
